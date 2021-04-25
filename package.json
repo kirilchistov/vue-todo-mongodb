@@ -7,7 +7,14 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@hapi/joi": "^15.1.1",
     "core-js": "^3.6.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^4.5.0",
+    "joi": "^17.4.0",
+    "monk": "^7.3.4",
+    "morgan": "^1.10.0",
     "vue": "^3.0.0",
     "vuex": "^4.0.0-0"
   },
